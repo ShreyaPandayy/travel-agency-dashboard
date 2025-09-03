@@ -114,17 +114,18 @@ VITE_BASE_URL="http://localhost:5173"
 
 ### Replace the placeholder values with your actual credentials.
 
-- **[Syncfusion]((https://www.syncfusion.com/))**
-
-- **[Appwrite]((https://appwrite.io/))**
-
+- **[Syncfusion](https://www.syncfusion.com/)**
+  
+- **[Appwrite](https://appwrite.io/)**
+  
 - **[Gemini AI](https://aistudio.google.com/)**
-
-- **[Sentry]((https://sentry.io/))**
-
+  
+- **[Sentry](https://sentry.io/)**
+  
 - **[Stripe](https://stripe.com/)**
-
+  
 - **[Unsplash](https://unsplash.com/)**
+
 
 **Running the Project**
 
